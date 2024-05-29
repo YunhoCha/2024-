@@ -7,7 +7,7 @@ https://hursoo.github.io/
 ### 1. 스크래핑 코드 준비
 **gb_scraping.ipynb** 파일을 클릭하여 "google colab"으로 열기
 ### 2. 국사편찬위원회의 메타데이터 다운로드 및 ChatGPT로 자료구성 파악하기
-![image](https://github.com/YunhoCha/2024-DH/assets/152939973/dfbf43b8-6fab-4bd1-b371-d7eba1e71bb8)
+![image](https://github.com/YunhoCha/2024-DH/assets/152939973/9ddb2ebf-d664-4ddb-a8a3-a8c0ef9c047d)
 - 개별 자료 직전까지 들어가서 오른쪽 **다운로드**로 자료의 메타데이터 txt 파일 다운로드
 - chatGPT(유료)에 업로드하여 어떤 구성으로 이루어진 데이터파일인지 물어보기
 ![image](https://github.com/YunhoCha/2024-DH/assets/152939973/f6aae3ef-9b86-4ddc-a10e-08c57b44cd7b)
