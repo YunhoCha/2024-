@@ -17,5 +17,6 @@ https://hursoo.github.io/
 ### 3. 코드에 자료 url 삽입 및 코드 수정(실습)
 ### 4. 만들어진 데이터 파일(엑셀파일)로 텍스트 전처리(형태소 분석) 및 빈도 분석 해보기.
 ### 5. TNA의 5단계, 텍스트 마이닝으로 할 수 있는 것.
+https://hursoo.github.io/23win-pylec_07/   
 군집도 및 중심성 네트워크, 사회주의 단어 빈도, 사회주의 논설 필자의 시기별 빈도
-https://hursoo.github.io/23win-pylec_07/
+
